@@ -1,4 +1,5 @@
-﻿import 'package:code_builder/code_builder.dart';
+﻿// @dart=2.9
+import 'package:code_builder/code_builder.dart';
 import 'package:dart_casing/dart_casing.dart';
 import 'package:flutter_translate_annotations/flutter_translate_annotations.dart';
 import 'package:flutter_translate_gen/json_parser.dart';

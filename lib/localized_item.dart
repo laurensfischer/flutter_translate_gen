@@ -1,4 +1,5 @@
-﻿import 'package:code_builder/code_builder.dart';
+﻿// @dart=2.9
+import 'package:code_builder/code_builder.dart';
 import 'package:dart_casing/dart_casing.dart';
 
 abstract class LocalizedItem {

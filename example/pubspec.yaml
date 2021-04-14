@@ -4,7 +4,7 @@ description: Example for flutter_translate_gen
 version: 1.0.0
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -13,12 +13,12 @@ dependencies:
   # TODO point to 1.0.2 as soon as it is merged
   flutter_translate_annotations:
     git: https://github.com/avbk/flutter_translate_annotations
-  flutter_translate: ^1.6.0
+  flutter_translate: ^2.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: '>=1.7.0 <2.0.0'
+  build_runner: ^1.12.2
   flutter_translate_gen:
     path: ../
 
